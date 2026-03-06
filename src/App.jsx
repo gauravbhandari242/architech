@@ -9,7 +9,7 @@ import About from "./components/About/About";
 import Work from "./components/work/Work";
 import Working from "./components/Working/Working";
 import Blog from "./components/Blog/Blog";
-import Contact from "./components/Contact/Contact";
+import Contact from "./components/Contact/Contact"
 import Footer from "./components/FooterSection/Footer";
 import Customer from "./components/Customer_service/Customer";
 import Founder from "./Founder/Founder";
@@ -22,7 +22,7 @@ import "./components/About/About.css";
 import "./components/work/Work.css";
 import "./components/Working/Working.css";
 import "./components/Blog/Blog.css";
-import "./components/Contact/Contact.css";
+import "./components/Contact/contact.css";
 import "./components/FooterSection/Footer.css";
 import "./components/Customer_service/Customer.css";
 import "./Founder/Founder.css";
