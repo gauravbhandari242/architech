@@ -12,7 +12,7 @@ import Blog from "./components/Blog/Blog";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/FooterSection/Footer";
 import Customer from "./components/Customer_service/Customer";
-import Founder from "./Founder/Founder";
+import Founder from "./components/Founder/Founder";
 import Aboutsss from "./components/ABOUTSSS/Aboutsss";
 
 function Home() {
