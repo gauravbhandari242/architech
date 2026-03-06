@@ -1,4 +1,5 @@
-import "./components.css";
+import "./compon.css";
+
 
 const blogs = [
   {

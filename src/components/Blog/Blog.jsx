@@ -1,3 +1,4 @@
+import "./Blog.css"
 import React, { useState } from "react";
 
 

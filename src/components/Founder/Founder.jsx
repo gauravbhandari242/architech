@@ -1,3 +1,4 @@
+import "./Founder.css"
 export default function Founder() {
   return (
     <section className="founder-section">

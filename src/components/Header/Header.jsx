@@ -1,3 +1,5 @@
+import "./Header.css";
+
 import React, { useState, useEffect } from "react";
 
 export default function Header() {
