@@ -5,7 +5,7 @@ export default function Founder() {
 
         {/* LEFT IMAGE */}
         <div className="founder-image">
-          <img src="img/33162637289a621f95c993ce0631f412d8d2be87.png" alt="Founder" />
+          <img src="/img/33162637289a621f95c993ce0631f412d8d2be87.png" alt="Founder" />
         </div>
 
         {/* RIGHT CONTENT */}
