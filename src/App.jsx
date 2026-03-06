@@ -37,9 +37,11 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/founder" element={<Founder />} />
-        <Route path="/services" element={<Service />} />
-        <Route path="/about" element={<Aboutsss />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/Servicecopy" element={<Service />} />
+        <Route path="/Working" element={<Work />} />
+        <Route path="/Blog" element={<Blog />} />
+        <Route path="/Contact" element={<Contact />} />
+
       </Routes>
 
       <Footer />

@@ -33,11 +33,11 @@ export default function Header() {
 
         <ul className={`menu ${menuOpen ? "active" : ""}`}>
           <li><a href="/" onClick={handleClose}>Home</a></li>
-          <li><a href="Founder" onClick={handleClose}>About</a></li>
-          <li><a href="Servicecopy" onClick={handleClose}>Services</a></li>
-          <li><a href="ABOUTSSS" onClick={handleClose}>Work</a></li>
-          <li><a href="#Blog" onClick={handleClose}>Blog</a></li>
-          <li><a href="#Contact" onClick={handleClose}>Contact</a></li>
+          <li><a href="/Founder" onClick={handleClose}>About</a></li>
+          <li><a href="/Servicecopy" onClick={handleClose}>Services</a></li>
+          <li><a href="/Working" onClick={handleClose}>Work</a></li>
+          <li><a href="/Blog" onClick={handleClose}>Blog</a></li>
+          <li><a href="/Contact" onClick={handleClose}>Contact</a></li>
 
           <li>
             <a
