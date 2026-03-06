@@ -1,4 +1,4 @@
-import "./compon.css";
+import "./Compon.css";
 
 
 
