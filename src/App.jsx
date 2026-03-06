@@ -16,7 +16,7 @@ import Founder from "./Founder/Founder";
 import Aboutsss from "./components/ABOUTSSS/Aboutsss";
 
 import "./components/Header/Header.css";
-import "./components/Component/Components.css";
+import "./components/Component/components.css";
 import "./components/Servicecopy/Service.css";
 import "./components/About/About.css";
 import "./components/work/Work.css";
