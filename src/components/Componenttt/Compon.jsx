@@ -1,4 +1,5 @@
-import "./Compon.css";
+import "./compon.css";
+
 
 
 const blogs = [
