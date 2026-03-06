@@ -3,7 +3,7 @@ import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Header/Header";
-import Component from "./components/Component/Components";
+import Component from "./src/components/Componenttt/Compon";
 import Service from "./components/Servicecopy/Service";
 import About from "./components/About/About";
 import Work from "./components/work/Work";
@@ -16,7 +16,7 @@ import Founder from "./Founder/Founder";
 import Aboutsss from "./components/ABOUTSSS/Aboutsss";
 
 import "./components/Header/Header.css";
-import "./components/Component/Components.css";
+import "./components/Componenttt/compon.css";
 import "./components/Servicecopy/Service.css";
 import "./components/About/About.css";
 import "./components/work/Work.css";
@@ -48,11 +48,14 @@ function App() {
       <Navbar />
 
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/Founder" element={<Founder />} />
-        <Route path="/Servicecopy" element={<Service />} />
-        <Route path="/ABOUTSSS" element={<Aboutsss />} />
-        <Route path="/Contact" element={<Contact />} />
+        <Routes>
+  <Route path="/" element={<Home />} />
+  <Route path="/founder" element={<Founder />} />
+  <Route path="/services" element={<Service />} />
+  <Route path="/about" element={<Aboutsss />} />
+  <Route path="/contact" element={<Contact />} />
+</Routes>
+
       </Routes>
 
       <Footer />
