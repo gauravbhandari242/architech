@@ -15,19 +15,6 @@ import Customer from "./components/Customer_service/Customer";
 import Founder from "./Founder/Founder";
 import Aboutsss from "./components/ABOUTSSS/Aboutsss";
 
-import "./components/Header/Header.css";
-import "./components/Componenttt/compon.css";
-import "./components/Servicecopy/Service.css";
-import "./components/About/About.css";
-import "./components/work/Work.css";
-import "./components/Working/Working.css";
-import "./components/Blog/Blog.css";
-import "./components/Contact/Contact.css";
-import "./components/FooterSection/Footer.css";
-import "./components/Customer_service/Customer.css";
-import "./Founder/Founder.css";
-import "./components/ABOUTSSS/Aboutsss.css";
-
 function Home() {
   return (
     <>
