@@ -2,6 +2,8 @@ import "./Compon.css";
 
 
 
+
+
 const blogs = [
   {
     id: 1,
