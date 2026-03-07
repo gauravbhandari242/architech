@@ -1,4 +1,4 @@
-import "./Contact.css";
+import "./contact.css";
 
 
 import { FaYoutube, FaFacebookF, FaInstagram } from "react-icons/fa";
