@@ -1,4 +1,4 @@
-import "./cgitompon.css";
+import "./compon.css";
 
 
 const blogs = [
