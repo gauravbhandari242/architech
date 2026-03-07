@@ -1,6 +1,5 @@
 import "./compon.css";
 
-
 const blogs = [
   {
     id: 1,
@@ -68,7 +67,7 @@ function Components() {
         ))}
       </div>
       
-   
+    
     </section>
   );
 }
