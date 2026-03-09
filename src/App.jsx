@@ -40,7 +40,7 @@ function App() {
         <Route path="/Servicecopy" element={<Service />} />
         <Route path="/Working" element={<Work />} />
         <Route path="/Compon" element={<Blog />} />
-        <Route path="/Contact" element={<Contact />} />
+        <Route path="/Componenttt" element={<Contact />} />
       </Routes>
 
       <Footer />
