@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Header/Header";
 import Component from "./components/Componenttt/Compon";
@@ -31,7 +31,7 @@ function Home() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <>
       <Navbar />
 
       <Routes>
@@ -41,11 +41,10 @@ function App() {
         <Route path="/Working" element={<Work />} />
         <Route path="/Blog" element={<Blog />} />
         <Route path="/Contact" element={<Contact />} />
-
       </Routes>
 
       <Footer />
-    </BrowserRouter>
+    </>
   );
 }
 
