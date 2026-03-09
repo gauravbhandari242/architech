@@ -39,8 +39,8 @@ function App() {
         <Route path="/founder" element={<Founder />} />
         <Route path="/Servicecopy" element={<Service />} />
         <Route path="/Working" element={<Work />} />
-        <Route path="/Compon" element={<Blog />} />
-        <Route path="/Componenttt" element={<Contact />} />
+        <Route path="/Componenttt" element={<Blog />} />
+        <Route path="/Contact" element={<Contact />} />
       </Routes>
 
       <Footer />
