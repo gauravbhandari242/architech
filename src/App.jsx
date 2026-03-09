@@ -18,13 +18,15 @@ import Aboutsss from "./components/ABOUTSSS/Aboutsss";
 function Home() {
   return (
     <>
-      <Component />
-      <Aboutsss />
+  
       <About />
+      <Service/>
       <Work />
       <Working />
-      <Blog />
       <Customer />
+      <Blog />
+      <Component />
+      <Contact/>
     </>
   );
 }
@@ -36,7 +38,7 @@ function App() {
 
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/founder" element={<Founder />} />
+        <Route path="/Aboutsss" element={<Aboutsss />} />
         <Route path="/Servicecopy" element={<Service />} />
         <Route path="/Working" element={<Work />} />
         <Route path="/Blog" element={<Blog />} />

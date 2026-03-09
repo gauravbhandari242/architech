@@ -39,7 +39,7 @@ export default function Header() {
           </li>
 
           <li>
-            <Link to="/founder" onClick={handleClose}>About</Link>
+            <Link to="/Aboutsss" onClick={handleClose}>About</Link>
           </li>
 
           <li>
