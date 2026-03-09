@@ -51,11 +51,11 @@ export default function Header() {
           </li>
 
           <li>
-            <Link to="/Compon" onClick={handleClose}>Blog</Link>
+            <Link to="/Componenttt" onClick={handleClose}>Blog</Link>
           </li>
 
           <li>
-            <Link to="/Componenttt" onClick={handleClose}>Contact</Link>
+            <Link to="/Contact" onClick={handleClose}>Contact</Link>
           </li>
 
           <li>
