@@ -39,7 +39,7 @@ function App() {
         <Route path="/founder" element={<Founder />} />
         <Route path="/Servicecopy" element={<Service />} />
         <Route path="/Working" element={<Work />} />
-        <Route path="/Blog" element={<Blog />} />
+        <Route path="/Compon" element={<Blog />} />
         <Route path="/Contact" element={<Contact />} />
       </Routes>
 
